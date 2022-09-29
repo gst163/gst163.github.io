@@ -373,10 +373,10 @@
       "ext": "34c497eadb86446e9ed823301fe29e4c"
     },
     {
-      "key": "csp_Yiso",
+      "key": "csp_Yisou",
       "name": "易 搜",
       "type": 3,
-      "api": "csp_Yiso",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
