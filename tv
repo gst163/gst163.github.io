@@ -110,7 +110,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/maihttps://notabug.org/ffq0335/json/raw/master/jianpian.json"
+            "ext": "https://notabug.org/ffq0335/json/raw/master/jianpian.json"
         },
         {
             "key": "hipy_js_金牌影院",
