@@ -61,8 +61,8 @@
             "ext": {
                 "siteUrl": "http://127.0.0.1:9999",
                 "channelUsername": "hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-                "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/gst163/mao/refs/heads/main/json/peizhi.json",
-                "filter": "https://ghp.ci/https://raw.githubusercontent.com/gst163/mao/refs/heads/main/json/douban.json"
+                "commonConfig": "https://fu66.eu.org/json/peizhi.json",
+                "filter": "https://fu66.eu.org/json/douban.json"
             }
         },
         {
@@ -73,7 +73,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/gst163/mao/refs/heads/main/json/peizhi.json"
+                "commonConfig": "https://fu66.eu.org/json/peizhi.json"
             }
         },
         {
@@ -85,8 +85,8 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/gst163/mao/refs/heads/main/json/peizhi.json",
-                "share": "https://ghp.ci/https://raw.githubusercontent.com/gst163/mao/refs/heads/main/json/网盘集合.json"
+                "commonConfig": "https://fu66.eu.org/json/peizhi.json",
+                "share": "https://fu66.eu.org/json/网盘集合.json"
             }
         },
         {
@@ -97,9 +97,9 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/gst163/mao/refs/heads/main/json/peizhi.json",
+                "commonConfig": "https://fu66.eu.org/json/peizhi.json",
                 "siteUrl": "https://www.wogg.bf/",
-                "filter": "https://ghp.ci/https://raw.githubusercontent.com/gst163/mao/refs/heads/main/json/wogg.json"
+                "filter": "https://fu66.eu.org/json/wogg.json"
             }
         },
         {
@@ -109,7 +109,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/maihttps://ghp.ci/https://raw.githubusercontent.com/gst163/mao/refs/heads/main/json/jianpian.json"
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/maihttps://fu66.eu.org/json/jianpian.json"
         },
         {
             "key": "hipy_js_金牌影院",
