@@ -54,7 +54,7 @@
     "sites": [
         {
             "key": "Tg | 豆瓣",
-            "name": "Tg | 豆瓣",
+            "name": "Tg | 豆 瓣",
             "type": 3,
             "api": "csp_TgYunDouBanPan",
             "searchable": 1,
@@ -68,7 +68,7 @@
         },
         {
             "key": "ConfigCenter",
-            "name": "配置中心",
+            "name": "配置 中心 ",
             "type": 3,
             "api": "csp_ConfigCenter",
             "searchable": 0,
@@ -79,7 +79,7 @@
         },
         {
             "key": "网盘集合",
-            "name": "网盘集合|4K",
+            "name": "网盘 集合|4K",
             "type": 3,
             "api": "csp_网盘集合",
             "searchable": 1,
@@ -92,7 +92,7 @@
         },
         {
             "key": "玩偶gg",
-            "name": "玩偶gg",
+            "name": "玩 偶 gg ",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -105,7 +105,7 @@
         },
         {
             "key": "賤賤",
-            "name": "賤賤",
+            "name": "賤 賤",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
@@ -114,7 +114,7 @@
         },
         {
             "key": "hipy_js_金牌影院",
-            "name": "金牌影院🍎",
+            "name": "金牌影院 🍎",
             "type": 3,
             "api": "https://11707.kstore.space/drpy2.min.js",
             "searchable": 1,
@@ -125,7 +125,7 @@
         },
         {
             "key": "hipy_js_🍵杯狐",
-            "name": "🍵杯狐🍎",
+            "name": "🍵 杯 狐 🍎",
             "type": 3,
             "api": "https://11707.kstore.space/drpy2.min.js",
             "searchable": 1,
@@ -147,7 +147,7 @@
         },
         {
             "key": "瓜子",
-            "name": "🍉瓜子┃APP",
+            "name": "🍉 瓜子┃APP",
             "type": 3,
             "api": "csp_Gz360",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/txtjy352e88a56068455f8c1917dd7eba2b35",
@@ -159,7 +159,7 @@
         },
         {
             "key": "hipy_js_85k影视",
-            "name": "85k影视🍎",
+            "name": "85k 影视 🍎",
             "type": 3,
             "api": "https://11707.kstore.space/drpy2.min.js",
             "searchable": 1,
@@ -181,7 +181,7 @@
         },
         {
             "key": "hipy_js_动漫58[漫]",
-            "name": "动漫58[漫]🍎",
+            "name": "动漫58[漫] 🍎",
             "type": 3,
             "api": "https://11707.kstore.space/drpy2.min.js",
             "searchable": 1,
@@ -203,7 +203,7 @@
         },
         {
             "key": "hipy_js_蓝光影视",
-            "name": "蓝光影视🍎",
+            "name": "蓝光影视 🍎",
             "type": 3,
             "api": "https://11707.kstore.space/drpy2.min.js",
             "searchable": 1,
@@ -225,7 +225,7 @@
         },
         {
             "key": "hipy_js_兔小贝[儿]",
-            "name": "兔小贝[儿]🍎",
+            "name": "兔小贝[儿] 🍎",
             "type": 3,
             "api": "https://11707.kstore.space/drpy2.min.js",
             "searchable": 1,
